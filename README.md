@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eduardo33py a begginer developer
-- I'm from brazil
+- BR I'm from brazil
 - 👀 I’m interested in data science and I.A
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on same projects
